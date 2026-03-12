@@ -1,0 +1,18 @@
+{
+  "name": "eloquent-javascript-exercises",
+  "version": "1.0.0",
+  "description": "Exercises, experiments and small visualizations from the book Eloquent JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node exercises/00_introduction/arcanes_pattern_of_bits.js"
+  },
+  "keywords": [
+    "javascript",
+    "eloquent-javascript",
+    "learning",
+    "exercises"
+  ],
+  "author": "Ranjit Shah Kanu",
+  "license": "MIT",
+  "type": "module"
+}
