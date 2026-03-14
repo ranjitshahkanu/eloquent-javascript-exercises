@@ -40,9 +40,11 @@ eloquent-javascript-exercises/
 │
 ├── exercises/                # Chapter-based exercises
 │   ├── 00_introduction/
-│   │   └── arcane_pattern_of_bits.js
+│   │   └── 01_arcane_pattern_of_bits.js
 │   │
 │   └── 01_values_types_operators/
+│
+├── experiments/              # Performance tests & optimized variations
 │
 ├── src/
 │   ├── common/               # Shared utilities
