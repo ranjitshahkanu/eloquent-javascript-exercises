@@ -7,3 +7,9 @@
 ### March 22, 2026
 **Subject: Operating Systems**
 - Main Memory Management:  Swapping-Contiguous Memory Allocation
+
+
+### March 23, 2026
+**Subject: FULL STACK DEVELOPMENT**
+- Database Design with PostgreSQL: PostgreSQL architecture - Relational modeling and normalization 
+
