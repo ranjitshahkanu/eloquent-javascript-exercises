@@ -12,4 +12,5 @@
 ### March 23, 2026
 **Subject: FULL STACK DEVELOPMENT**
 - Database Design with PostgreSQL: PostgreSQL architecture - Relational modeling and normalization 
+- Database Design with PostgreSQL: Advanced data types (JSONB and arrays) 
 
