@@ -18,3 +18,7 @@
 **Subject: FULL STACK DEVELOPMENT**
 - Database Design with PostgreSQL: Advanced data types (JSONB and arrays) 
 
+### March 25, 2026
+**Subject: FULL STACK DEVELOPMENT**
+- Database Design with PostgreSQL: ACID properties and MVCC
+
