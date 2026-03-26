@@ -1,3 +1,5 @@
+--------------- 4th semester CIA - 2nd  start ---------------
+
 ### March 20, 2026
 **Subject: Operating Systems**
 - File Management: Overview, Organization, Access
@@ -26,3 +28,5 @@
 **Subject: FULL STACK DEVELOPMENT**
 - Database Design with PostgreSQL: Indexing strategies and query performance tuning 
 
+
+--------------- 4th semester CIA - 2nd End ---------------
