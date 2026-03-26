@@ -22,3 +22,7 @@
 **Subject: FULL STACK DEVELOPMENT**
 - Database Design with PostgreSQL: ACID properties and MVCC
 
+### March 25, 2026
+**Subject: FULL STACK DEVELOPMENT**
+- Database Design with PostgreSQL: Indexing strategies and query performance tuning 
+
