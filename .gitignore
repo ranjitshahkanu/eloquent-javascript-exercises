@@ -10,3 +10,6 @@ bin/
 # IDEs
 .vscode/
 .zed/
+
+# Logs
+*.log
