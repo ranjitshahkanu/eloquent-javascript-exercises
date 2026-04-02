@@ -15,5 +15,3 @@ bin/
 *.log
 
 
-# Environment files
-.env
