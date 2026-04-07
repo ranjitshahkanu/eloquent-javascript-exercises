@@ -52,3 +52,9 @@
 
 
 --------------- 4th semester CIA - 3nd  start ---------------
+
+
+### April 07, 2026
+**Subject: Operating Systems**
+- Virtual Memory Management:Demand Paging-Page Replacement (FIFO, LRU, Optimal),
+Allocation of Frames-Thrashing
