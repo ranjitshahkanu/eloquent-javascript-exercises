@@ -58,3 +58,7 @@
 **Subject: Operating Systems**
 - Virtual Memory Management:Demand Paging-Page Replacement (FIFO, LRU, Optimal),
 Allocation of Frames-Thrashing
+
+### April 08, 2026
+**Subject: Operating Systems**
+- File Management: Overview, Organization, Access, File Directories, File Structures, File Sharing and Protection
