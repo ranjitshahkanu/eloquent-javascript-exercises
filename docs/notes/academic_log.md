@@ -65,4 +65,4 @@ Allocation of Frames-Thrashing
 
 ### April 11, 2026
 **Subject: Operating Systems**
-- Management Mass Storage Structure: Mass Storage System-Disk Structure-Disk Scheduling and Management
+- Management Mass Storage Structure: Mass Storage System, Disk Structure, Disk Scheduling and Management
