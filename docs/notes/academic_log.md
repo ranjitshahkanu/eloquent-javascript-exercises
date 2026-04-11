@@ -62,3 +62,7 @@ Allocation of Frames-Thrashing
 ### April 08, 2026
 **Subject: Operating Systems**
 - File Management: Overview, Organization, Access, File Directories, File Structures, File Sharing and Protection
+
+### April 11, 2026
+**Subject: Operating Systems**
+- Management Mass Storage Structure: Mass Storage System-Disk Structure-Disk Scheduling and Management
