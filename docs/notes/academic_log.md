@@ -66,3 +66,7 @@ Allocation of Frames-Thrashing
 ### April 11, 2026
 **Subject: Operating Systems**
 - Management Mass Storage Structure: Mass Storage System, Disk Structure, Disk Scheduling and Management
+
+### April 12, 2026
+**Subject: Operating Systems**
+-Disk Scheduling Case Study: Buddy Memory Allocation Scheme in Operating Systems
