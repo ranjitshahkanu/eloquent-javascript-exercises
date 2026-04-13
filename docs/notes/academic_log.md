@@ -70,3 +70,7 @@ Allocation of Frames-Thrashing
 ### April 12, 2026
 **Subject: Operating Systems**
 -Disk Scheduling Case Study: Buddy Memory Allocation Scheme in Operating Systems
+
+### April 13, 2026
+**Subject: Operating Systems**
+- RTOS: Introduction to real-time systems and OS- RTOS services, real-time tasks- RTOS memory management- Free RTOS
