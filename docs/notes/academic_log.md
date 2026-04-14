@@ -74,4 +74,7 @@ Allocation of Frames-Thrashing
 ### April 13, 2026
 **Subject: Operating Systems**
 - RTOS: Introduction to real-time systems and OS- RTOS services, real-time tasks- RTOS memory management- Free RTOS
+
+### April 14, 2026
+**Subject: Operating Systems**
 - Virtualization:  Process and System VMs-Taxonomy of VMs, Hardware Emulation, Full Virtualization with binary translation, Hardware assisted, Operating System Virtualization
