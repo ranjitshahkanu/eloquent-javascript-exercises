@@ -78,3 +78,7 @@ Allocation of Frames-Thrashing
 ### April 14, 2026
 **Subject: Operating Systems**
 - Virtualization:  Process and System VMs-Taxonomy of VMs, Hardware Emulation, Full Virtualization with binary translation, Hardware assisted, Operating System Virtualization
+
+### April 15, 2026
+**Subject: FULL STACK DEVELOPMENT**
+- Microservices Architecture: Monolithic vs. Microservices architecture - Domain-based service separation - Inter-service communication using REST and Feign Client
