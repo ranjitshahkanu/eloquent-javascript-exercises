@@ -82,3 +82,8 @@ Allocation of Frames-Thrashing
 ### April 15, 2026
 **Subject: FULL STACK DEVELOPMENT**
 - Microservices Architecture: Monolithic vs. Microservices architecture - Domain-based service separation - Inter-service communication using REST and Feign Client
+
+### April 16, 2026
+**Subject: FULL STACK DEVELOPMENT**
+- Traditional Release Management: Defining Continuous Integration (CI) and Continuous Deployment (CD) - GitHub Actions and automated deployment pipelines - Intro to cloud deployment (AWS EC2, Render, or Railway overview) - Centralized logging fundamentals (ELK Stack – overview)
+
