@@ -87,6 +87,6 @@ Allocation of Frames-Thrashing
 **Subject: FULL STACK DEVELOPMENT**
 - Traditional Release Management: Defining Continuous Integration (CI) and Continuous Deployment (CD) - GitHub Actions and automated deployment pipelines - Intro to cloud deployment (AWS EC2, Render, or Railway overview) - Centralized logging fundamentals (ELK Stack – overview)
 
-### April 16, 2026
+### April 17, 2026
 **Subject: FULL STACK DEVELOPMENT**
 -  Backend Engineering with Java Spring Boot: Spring Boot ecosystem and IoC Dependency Injection
