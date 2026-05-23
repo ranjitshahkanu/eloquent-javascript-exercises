@@ -1,5 +1,5 @@
 import { benchmark } from "../../../src/common/timer.js";
-benchmark("sum using while loop", () => {
+benchmark("basic arithmetic operations", () => {
 let number1 = 4;
 let number2 = 12;
 console.log("The different arthmetic operation on",number1,"and",number2,"are:",);
