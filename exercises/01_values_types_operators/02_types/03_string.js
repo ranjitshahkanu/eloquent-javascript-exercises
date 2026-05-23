@@ -1,4 +1,3 @@
-// Backtick quotes
 import {benchmark} from "../../../src/common/timer.js";
 benchmark ("Different way to initialize string in js", () => {
 
@@ -11,5 +10,10 @@ benchmark ("Different way to initialize string in js", () => {
     
     // double quotes
     console.log("This is double quote and dosent allow to use new line directly. To add new line we have to use backlash");
+    
 
+   // backlash example
+   console.log("This is the backlash example \n This is new line using backlash");
+   console.log("The \" ");
+   console.log(" \\n ");
 });
